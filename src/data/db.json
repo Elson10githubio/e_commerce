@@ -1,0 +1,96 @@
+
+    [
+        {
+            "id": 1,
+            "name": "Iphone 12",
+            "image": "iphone12.jpg",
+            "genre": "telephone",
+            "description": "Le smartphone est un téléphone mobile que ses fonctions rapprochent de l'ordinateur portable et de l'appareil photo numérique. En France il est passé dans l'usage courant de l'appeler mobile, téléphone mobile ou smartphone. Il est très rare d'employer la terminologie québécoise qui parle de téléphone intelligent et ne signifie pas grand-chose aux Français.",
+            "prix": "1000000"
+        },
+        {
+            "id": 2,
+            "name": "Gougle Pixel",
+            "genre": "telephone",
+            "description": "Le smartphone idéal qui répond le mieux à ses besoins n'est pas toujours simple. Il faut prendre en compte de nombreux critères avant de faire son",
+            "image": "gouglep.jpg",
+            "prix": "750000"
+        },
+        {
+            "id": 3,
+            "name": "Honor X",
+            "genre": "telephone",
+            "description": "Ce sont des modèles proposant plus de fonctions que les téléphones standards, par exemple la réception et l'envoi de courriels, la gestion de son emploi du temps ou l'accès à Internet",
+            "image": "honor.jpg",
+            "prix": "950000"
+        },
+        {
+            "id": 4,
+            "name": "Honor 12Pro",
+            "genre": "telephone",
+            "description": "May 23, 2023 - Si selon vous un pouce est uniquement un doigt et si le terme RAM vous évoque seulement un outil permettant de se mouvoir sur une étendue d'eau",
+            "image": "honor.jpg",
+            "prix": "1,500,000"
+        },
+        {
+            "id": 5,
+            "name": "Ipone 14 Pro",
+            "genre": "telephone",
+            "description": " EAvec la fonction de mise en miroir de l'iPhone, vous pouvez afficher l'écran de votre iPhone sur votre Mac et le contrôler sans avoir à saisir votre téléphone. Les fonctionnalités de continuité vous permettent également de répondre aux appels ou aux messages directement depuis votre Mac. Vous pouvez même copier des images, des vidéos ou du texte depuis votre iPhone et les coller dans une autre application sur votre Mac. Et avec iCloud, vous pouvez accéder à vos fichiers depuis l'un ou l'autre appareil.",
+            "image": "iphone12.jpg",
+            "prix": "2550000"
+        },
+        {
+            "id": 6,
+            "name": "Galaxi",
+            "genre": "telephone",
+            "description": " Parcourez 369 742 Smartphone vecteurs, icônes, graphiques clipart et arrière-plans à télécharger libres de droits auprès des contributeurs créatifs de Vecteezy",
+            "image": "honor.jpg",
+            "prix": "700000"
+        },
+        {
+            "id": 7,
+            "name": "Hp",
+            "image": "hp.png",
+            "genre": "ordinateur",
+            "description": "HP ne cesse d'innover avec ses ordinateurs, imprimantes, accessoires et services pour répondre aux besoins des particuliers et des professionnels.",
+            "conf": "Ram:8go, Proc: Core9i et Disc: 700Go",
+            "prix": "1000000"
+        },
+        {
+            "id": 8,
+            "name": "Mac Boock",
+            "genre": "ordinateur",
+            "description": "August 16, 2018 - Les prix des Mac chez Apple est bien supérieur aux prix constatés pour les équivalents en PC Windows. Apple souhaite proposer des produits d’une qualité supérieure, en avance technologiquement. Ce sujet est souvent soumis à contreve",
+            "image": "macBook.jpg",
+            "conf": "Ram:10go et Proc: Core10i et Disc: 1T",
+            "prix": "1400000"
+        },
+        {
+            "id": 9,
+            "name": "Accer",
+            "genre": "ordinateur",
+            "image": "accer.jpg",
+            "description": "Un ordinateur portable Windows facile à utiliser, compact et abordable. Intégrant les technologies les plus récentes d'Intel®, d'AMD et de NVIDIA, il vous offrira le meilleur rapport qualité-prix pour toutes vos tâches.",
+            "conf": "Ram:15go, Proc: Core17i et Disc: 2T",
+            "prix": "1000000"
+        },
+        {
+            "id": 10,
+            "name": "Dell",
+            "genre": "ordinateur",
+            "image": "dell.jpg",
+            "description": "May 27, 2024 - Cet article fournit des informations sur la vérification des spécifications matérielles d’un ordinateur Dell sur le site Web de support/Dell.com dans le BIOS ou à l’aide de l’outil de diagnostic DirectX.",
+            "conf": "Ram:4go, Proc: Core5i et Disc: 400Go",
+            "prix": "700000"
+        },
+        {
+            "id": 11,
+            "name": "Mac Boock pro",
+            "genre": "ordinateur",
+            "description": "1 week ago - In June 2005, Apple released the Developer Transition Kit, a prototype Intel Pentium 4–based Mac housed in a Power Mac G5 case, that was temporarily available to developers. The iMac, Mac Mini, MacBook, and MacBook Pro had moved to an Intel-based",
+            "image": "macBook.jpg",
+            "conf": "Ram:120go, Proc: Core80i et Disc: 50T",
+            "prix": "5000000"
+        }
+    ]
